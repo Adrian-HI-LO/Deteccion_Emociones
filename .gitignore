@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+Sandvenv/
+venv/
+env/
+
+# Imágenes y archivos temporales
+imagenesCliente/
+processed_images/
+/tmp/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Datasets grandes
+DataSets/
