@@ -26,3 +26,9 @@ Thumbs.db
 
 # Datasets grandes
 DataSets/
+
+# Modelos entrenados
+models/
+
+# Modelos entrenados (muy grandes para GitHub)
+models/*.keras
